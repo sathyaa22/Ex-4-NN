@@ -161,11 +161,11 @@ print(classification_report(testing_b,predicted_values))
 
 ![Screenshot 2025-04-21 093652](https://github.com/user-attachments/assets/40547f68-7e16-41b9-9030-d700f112421e)
 
-### Confusion Matrix:
+#### Confusion Matrix:
 
 ![Screenshot 2025-04-21 093659](https://github.com/user-attachments/assets/cdf12035-b398-4340-a1c7-99a26284186e)
 
-## Classification Report:
+#### Classification Report:
 
 ![Screenshot 2025-04-21 093707](https://github.com/user-attachments/assets/96d8510f-3bd6-4f80-8c40-f3a79e40aee3)
 
